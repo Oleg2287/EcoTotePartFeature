@@ -53,7 +53,6 @@ img {
   max-width: 95px;
   margin: 0 auto;
   margin-bottom: 12px;
-  /* margin: 64px 112px 12px 112px; */
   font-weight: 600;
   font-size: 16px;
   line-height: 1.5;
@@ -65,7 +64,6 @@ img {
   max-width: 288px;
   margin: 0 auto;
   margin-bottom: 20px;
-  /* padding: 12px 16px 20px 16px; */
   font-weight: 700;
   font-size: 36px;
   line-height: 1.2;
@@ -102,36 +100,17 @@ img {
   }
 
   .text-up-title {
-    max-width: 95px;
     margin-bottom: 16px;
-    margin: 0 auto;
-    font-weight: 600;
-    font-size: 16px;
-    line-height: 1.5;
-    text-align: center;
-    color: #fff;
   }
 
   .text-title {
     max-width: 629px;
-    margin: 0 auto;
-    font-weight: 700;
-    font-size: 36px;
-    line-height: 1.2;
-    letter-spacing: 0.01em;
-    text-align: center;
-    color: #fff;
+    margin-bottom: 24px;
   }
 
   .text-under-title {
     max-width: 573px;
-    margin: 0 auto;
-    margin-top: 24px;
-    font-weight: 400;
     font-size: 18px;
-    line-height: 1.6;
-    text-align: center;
-    color: #fff;
   }
 
   @media screen and (min-resolution: 2x) {
@@ -153,37 +132,17 @@ img {
       url("../img/feature/feature1dt.jpg");
   }
 
-  .text-up-title {
-    max-width: 95px;
-    margin-bottom: 16px;
-    margin: 0 auto;
-    font-weight: 600;
-    font-size: 16px;
-    line-height: 1.5;
-    text-align: center;
-    color: #fff;
-  }
+  /* .text-up-title {
+  } */
 
   .text-title {
     max-width: 629px;
-    margin: 16px 405px 24px 405px;
-    font-weight: 700;
     font-size: 56px;
-    line-height: 1.2;
-    letter-spacing: 0.01em;
-    text-align: center;
-    color: #fff;
   }
 
   .text-under-title {
     max-width: 573px;
-    margin: 0 auto;
-    margin-top: 24px;
-    font-weight: 400;
     font-size: 18px;
-    line-height: 1.6;
-    text-align: center;
-    color: #fff;
   }
 
   @media screen and (min-resolution: 2x) {
